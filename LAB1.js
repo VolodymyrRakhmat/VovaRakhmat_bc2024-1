@@ -1,2 +1,1 @@
-let supp = "lab";
-console.log("hello vova "+ supp);
+console.log("Hello, VolodymyrRakhmat");
